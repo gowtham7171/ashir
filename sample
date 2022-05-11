@@ -1,3 +1,7 @@
 this is 1st change
 this is 2nd commit dev
+<<<<<<< HEAD
 this is 3rd wrong commit -master
+=======
+this is 3rd commit dev
+>>>>>>> dev
